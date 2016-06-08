@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:35.633728
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:22
 #+TITLE: 燉煌錄
 #+PROPERTY: CBETA_ID T51n2091
 #+PROPERTY: ID KR6r0125
