@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:35.633728
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:22
 #+TITLE: 燉煌錄
 #+PROPERTY: CBETA_ID T51n2091
 #+PROPERTY: ID KR6r0125
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2091
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0125_T_001-0997c> 
 #+PROPERTY: JUAN 1
 ¶
-No.2091¶
-
- 燉煌錄¶
+No. 2091¶
+燉煌錄¶
 ¶
 
 効穀城本是漁澤。漢孝帝時。崔不意教人力¶
